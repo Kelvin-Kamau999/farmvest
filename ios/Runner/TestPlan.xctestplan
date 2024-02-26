@@ -1,0 +1,23 @@
+{
+  "configurations" : [
+    {
+      "id" : "FA902AF6-85EB-45B8-93E1-538780F9C692",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "locationScenario" : {
+      "identifier" : "Johannesburg, South Africa",
+      "referenceType" : "built-in"
+    },
+    "region" : "ZA",
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+
+  ],
+  "version" : 1
+}

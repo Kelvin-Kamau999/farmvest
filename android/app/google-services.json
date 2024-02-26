@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "152780753508",
+    "project_id": "agrifund-761fa",
+    "storage_bucket": "agrifund-761fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152780753508:android:d1a2deb79a7241ae0d6d71",
+        "android_client_info": {
+          "package_name": "com.cofarmer.cofarmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152780753508-kbmeq3c2k8go3b9qci0matd2beb3opo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cofarmer.cofarmer",
+            "certificate_hash": "9359dbcc9cb07629ce9da0a08a498c55d19307d5"
+          }
+        },
+        {
+          "client_id": "152780753508-lkbqv6f92qmblg24rrts63dcti64c8dp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcTfiYMSk0NHYxF2qdm1Zp-Cyf7iruE8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152780753508-lkbqv6f92qmblg24rrts63dcti64c8dp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "152780753508-4j7icv365k7b8g5d4t11ljhtkoe69ohp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cofarmer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
